@@ -37,4 +37,42 @@ An interactive quiz application built with **Flutter** and **Supabase**, where u
 
 ---
 
+## 🧩 Screen Descriptions
 
+- **Login Screen**
+  - Handles user authentication using Supabase
+
+- **Create Profile Screen**
+  - Stores user name and details in database
+
+- **Home Screen**
+  - Navigation hub of the app
+
+- **Story Cards Screen**
+  - Displays list of mythology stories
+
+- **Character Screen**
+  - Shows characters based on selected story
+
+- **Quiz Screen**
+  - Displays questions and options
+  - Validates answers
+  - Shows explanations
+
+- **Chapter Quiz Screen**
+  - Quiz divided chapter-wise for better learning
+
+- **Leaderboard Screen**
+  - Ranks users based on scores
+
+- **Profile Screen**
+  - Shows user stats and progress
+
+---
+
+## 🔥 Key Highlights
+
+- Clean UI with Flutter Material Design
+- Real-time backend using Supabase
+- Scalable quiz structure (story → character → quiz)
+- Leaderboard system for competitive engagement
